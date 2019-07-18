@@ -1,0 +1,1 @@
+While driving a car the mentality of driver is unknown so the objective of this project is to provide a better alternative to human driver. Which can very well achieve with the help of concepts of image processing. In this work, we propose to detect the road and vehicles ahead, pedestrian walking on the road and detect and recognize traffic signs.
